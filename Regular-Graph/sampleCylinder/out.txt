@@ -1,0 +1,20 @@
+
+Run Id : 0  false 203 740 244 896 9
+Run Id : 1  false 270 980 167 607 9
+Run Id : 2  true 218 904 232 958 0
+Run Id : 3  false 270 949 159 604 9
+Run Id : 4  false 206 785 208 790 9
+Run Id : 5  true 248 1000 152 660 0
+Run Id : 6  false 281 1009 216 843 9
+Run Id : 7  true 234 971 258 1085 0
+Run Id : 8  false 245 897 157 592 9
+Run Id : 9  true 186 806 228 919 1
+Run Id : 10  true 200 818 192 829 2
+num Sucess  : 5	num Failure : 6
+Probability of given query has been satisfied : 0.45454545454545453
+
+Fraction of vertices having specified agents in 0-attribute graph : 0.25976265341312504
+
+Fraction of vertices having specified agents in 1-attribute graph : 0.2519640214049869
+
+Execution Time testGenericSMC:85381
